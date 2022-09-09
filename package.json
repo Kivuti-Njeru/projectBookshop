@@ -1,0 +1,8 @@
+{
+  "name": "Js Project",
+  "version": "1.0.0",
+  "dependencies": {
+    "firebase": "^9.9.4",
+    "mysql": "^2.18.1"
+  }
+}
